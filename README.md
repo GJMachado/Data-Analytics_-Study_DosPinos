@@ -109,6 +109,8 @@ git clone https://github.com/GJMachado/Data-Analytics_-Study_DosPinos.git
 ### Update del Dashboard QUE?
 [![Ver explicación técnica](./images/Dashboard_QUE.png)](./Videos/Update_Dashboard_QUE.mp4)
 
+### Explicación del Dashboard QUE?
+[![Ver explicación técnica](./images/Dashboard_QUIEN.png)](./Videos/Dashboard_QUIEN.mp4)
 ---
 
 ## 🛠️ Tecnologías Utilizadas
