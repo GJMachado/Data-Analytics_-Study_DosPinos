@@ -101,13 +101,13 @@ git clone https://github.com/GJMachado/Data-Analytics_-Study_DosPinos.git
 ## 📹 Videos Tutoriales
 
 ### Video Introductorio
-[![Ver tutorial del dashboard](./images/caso_de_estudio.png)](./videos/video_introductorio.mp4)
+[![Ver tutorial del dashboard](./images/caso_de_estudio.png)](./Videos/video_introductorio.mp4)
 
 ### Explicación del Dashboard QUE?
-[![Ver explicación técnica](./images/Dashboard_QUE.png)](./videos/Dashboard_QUE.mp4)
+[![Ver explicación técnica](./images/Dashboard_QUE.png)](./Videos/Dashboard_QUE.mp4)
 
 ### Update del Dashboard QUE?
-[![Ver explicación técnica](./images/Dashboard_QUE.png)](./videos/Update_Dashboard_QUE.mp4)
+[![Ver explicación técnica](./images/Dashboard_QUE.png)](./Videos/Update_Dashboard_QUE.mp4)
 
 ---
 
